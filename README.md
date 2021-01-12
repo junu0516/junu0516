@@ -8,8 +8,8 @@
 - &#9989; Oracle / mySQL
 - &#9989; HTML / CSS / Javascript
 
-### 📫 How to reach me
-- 📝 [blog](https://junu0516.tistory.com/)
+### 📫 Contact me
+- 📝 [Tech-blog](https://junu0516.tistory.com/)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@yonsei.ac.kr)
 	
 <!--

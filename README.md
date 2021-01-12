@@ -4,6 +4,13 @@
 - ⚡ I hope to get a job as a backend engineer
 
 ### &#128187; Tack Stack
+- &#9989; Java / Spring / JSP / PHP 
+- &#9989; Oracle / mySQL
+- &#9989; HTML / CSS / Javascript
+
+### How to reach me
+- 📫 [blog](https://junu0516.tistory.com/)
+- &#128313; [Linkedin](www.linkedin.com/in/junu0516)
 <!--
 **junu0516/junu0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning __spring, java, jsp, web__
 - ⚡ I hope to get a job as a backend engineer
 
-### &#128187; Tack Stack
+### &#128187; Tech Stack
 - &#9989; Java / Spring / JSP / PHP 
 - &#9989; Oracle / mySQL
 - &#9989; HTML / CSS / Javascript

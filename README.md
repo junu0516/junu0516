@@ -1,5 +1,9 @@
-### Hi there 👋
-### 😄 Amout Me
+## Hi there 👋
+### 💬 Amout Me
+- 🌱 I’m currently learning __spring, java, jsp, web__
+- ⚡ I hope to get a job as a backend engineer
+
+### &#128187; 
 <!--
 **junu0516/junu0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

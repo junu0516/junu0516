@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 💬 Amout Me
 - 🌱 I’m currently learning __java, jsp, spring, web__
-- ⚡ I mainly focusing on studying back-end & server side
+- ⚡ I'm mainly focusing on studying back-end & server side
 
 ### &#128187; Tech Stack
 - &#9989; Java / Spring / JSP / PHP 

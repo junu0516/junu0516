@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 💬 Amout Me
+### 💬 About Me
 - 🌱 I’m currently learning __java, jsp, spring, web__
 - ⚡ I'm mainly focusing on studying back-end & server side
 

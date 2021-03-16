@@ -4,8 +4,8 @@
 - ⚡ I'm mainly focusing on studying back-end & server side
 
 ### &#128187; Tech Stack
-- &#9989; Java / Spring / JSP / PHP 
-- &#9989; Oracle / mySQL
+- &#9989; Java / Spring / JSP&Servlet / PHP 
+- &#9989; Oracle / MySQL / MyBatis
 - &#9989; HTML / CSS / Javascript
 
 ### 📫 Contact me

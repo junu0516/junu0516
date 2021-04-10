@@ -28,10 +28,18 @@
    <hr>
 </div>
 </details>
-   
-- [예약서비스를 위한 Rest API 제공 서버](https://github.com/junu0516/Reservation) : 스프링을 활용한 예약 서비스를 위한 Rest API를 제공하는 백엔드 시스템 구현
-- [카카오톡 UI 클론](https://github.com/junu0516/KokoaTalk_Clone) : html, css를 활용하여 카카오톡 UI를 따라 구현(클론코딩)
-   
+<details>
+<summary>예약서비스를 위한 Rest API 제공 서버</summary>
+<div markdown="1">
+<br>
+<a href="https://github.com/junu0516/Reservation">[저장소 보기]</a><hr>
+   <p>
+      네이버 부스트코스 백엔드 과정을 수강하면서 학습한 내용을 토대로 REST API를 제공하는 백엔드 시스템을 구현하였습니다.<br>
+      스프링과 MySQL을 활용하였으며, 향후 프론트엔드를 직접 구현하여 백엔드와 연동할 예정입니다.
+   </p>
+   <hr>
+</div>
+</details>   
 <!--
 **junu0516/junu0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

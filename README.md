@@ -14,8 +14,14 @@
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@yonsei.ac.kr)
 
 ### 🌱  Recent Output 
-(프로젝트 결과물에 대한 자세한 설명은 아래 링크를 클릭한 후 readme를 확인해주세요)
-- [나혼자산다](https://github.com/junu0516/ILIVEALONE_2) : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)
+(자세한 설명은 아래 리스트를 토글해주세요)
+<details>
+<summary>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</summary>
+<div markdown="1">       
+<br>
+[저장소 보기](https://github.com/junu0516/ILIVEALONE_2) : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)
+</div>
+</details>
 - [예약서비스를 위한 Rest API 제공 서버](https://github.com/junu0516/Reservation) : 스프링을 활용한 예약 서비스를 위한 Rest API를 제공하는 백엔드 시스템 구현
 - [카카오톡 UI 클론](https://github.com/junu0516/KokoaTalk_Clone) : html, css를 활용하여 카카오톡 UI를 따라 구현(클론코딩)
    

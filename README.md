@@ -19,7 +19,7 @@
 <summary>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</summary>
 <div markdown="1">       
 <br>
-[저장소 보기](https://github.com/junu0516/ILIVEALONE_2) : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)
+   <a href="https://github.com/junu0516/ILIVEALONE_2">[저장소 보기]</a> 
 </div>
 </details>
 - [예약서비스를 위한 Rest API 제공 서버](https://github.com/junu0516/Reservation) : 스프링을 활용한 예약 서비스를 위한 Rest API를 제공하는 백엔드 시스템 구현

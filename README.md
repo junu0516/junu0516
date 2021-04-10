@@ -16,7 +16,7 @@
 ### 🌱  Recent Output 
 제가 학습한 내용을 토대로 진행한 프로젝트 결과물입니다. 자세한 설명은 아래 리스트를 토글해주세요
 <details>
-<summary>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</summary>
+   <summary><b>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</b></summary>
 <div markdown="1">
 <br>
 <a href="https://github.com/junu0516/ILIVEALONE_2">[저장소 보기]</a><hr>
@@ -29,7 +29,7 @@
 </div>
 </details>
 <details>
-<summary>예약서비스를 위한 Rest API 제공 서버</summary>
+   <summary><b>예약서비스를 위한 Rest API 제공 서버</b></summary>
 <div markdown="1">
 <br>
 <a href="https://github.com/junu0516/Reservation">[저장소 보기]</a><hr>

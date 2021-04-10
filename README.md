@@ -17,9 +17,15 @@
 (자세한 설명은 아래 리스트를 토글해주세요)
 <details>
 <summary>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</summary>
-<div markdown="1">       
+<div markdown="1">
 <br>
-   <a href="https://github.com/junu0516/ILIVEALONE_2">[저장소 보기]</a> 
+<a href="https://github.com/junu0516/ILIVEALONE_2">[저장소 보기]</a><hr>
+   <p>
+      Spring과 Oracle을 활용하여 팀프로젝트로 간단한 종합 웹커뮤니티 서비스를 구현하였으며,
+      공동구매 기능 구현을 담당하였습니다.<br>
+     추후 지속적으로 부족한 점을 보완하여 코드의 가독성 향상과 디자인의 통일성이 갖춰지는대로 호스팅을 시도할 예정입니다.   
+   </p>
+   <hr>
 </div>
 </details>
    

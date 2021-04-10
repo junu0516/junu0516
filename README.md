@@ -14,7 +14,7 @@
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@yonsei.ac.kr)
 
 ### 🌱  Recent Output 
-(자세한 설명은 아래 리스트를 토글해주세요)
+제가 학습한 내용을 토대로 진행한 프로젝트 결과물입니다. 자세한 설명은 아래 리스트를 토글해주세요
 <details>
 <summary>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</summary>
 <div markdown="1">

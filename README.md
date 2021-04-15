@@ -2,7 +2,7 @@
 ### 💬 About Me
 - 현재 자바와 스프링을 공부하고 있습니다.
 - 🌱 I’m currently learning __java, jsp, spring, web__
-- ⚡ I'm mainly focusing on studying back-end & server side
+- ⚡ [](https://docs.google.com/document/d/1c8rQJ0PB5r-NarBp3cDYXk95-jKlJLaOLaRUwiyJXxI/edit?usp=sharing)
 
 ### &#128187; Tech Stack
 - &#9989; Java / Spring / JSP&Servlet / PHP 

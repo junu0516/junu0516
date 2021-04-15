@@ -6,7 +6,7 @@
 - 📝 [Resume](https://docs.google.com/document/d/1c8rQJ0PB5r-NarBp3cDYXk95-jKlJLaOLaRUwiyJXxI/edit?usp=sharing) / [Tech-blog](https://junu0516.tistory.com/)
 
 ### 🌱  Recent Output 
-제가 학습한 내용을 토대로 진행한 프로젝트 결과물입니다. 자세한 설명은 아래 리스트를 토글해주세요
+자세한 설명 및 저장소 바로가기는 아래 리스트를 토글해주세요
 <details>
    <summary><b>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</b></summary>
 <div markdown="1">

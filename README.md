@@ -1,17 +1,9 @@
 ## Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@yonsei.ac.kr)
 ### 💬 About Me
 - 현재 자바와 스프링을 공부하고 있습니다.
-- 🌱 I’m currently learning __java, jsp, spring, web__
-- ⚡ [Resume](https://docs.google.com/document/d/1c8rQJ0PB5r-NarBp3cDYXk95-jKlJLaOLaRUwiyJXxI/edit?usp=sharing)
-
-### &#128187; Tech Stack
-- &#9989; Java / Spring / JSP&Servlet / PHP 
-- &#9989; Oracle / MySQL / MyBatis
-- &#9989; HTML / CSS / Javascript
-
-### 📫 Contact me
-- 📝 [Tech-blog](https://junu0516.tistory.com/) : 제가 공부한 것들을 정리한 공간입니다.
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@yonsei.ac.kr)
+- 🌱 I’m currently learning __java, spring, javascript__
+- 📝 [Resume](https://docs.google.com/document/d/1c8rQJ0PB5r-NarBp3cDYXk95-jKlJLaOLaRUwiyJXxI/edit?usp=sharing) / [Tech-blog](https://junu0516.tistory.com/)
 
 ### 🌱  Recent Output 
 제가 학습한 내용을 토대로 진행한 프로젝트 결과물입니다. 자세한 설명은 아래 리스트를 토글해주세요

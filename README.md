@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@yonsei.ac.kr)
 ### 💬 About Me
-- 현재 자바와 스프링부트를 공부하고 있습니다.
+- 자바와 스프링부트를 공부하고 있습니다.
 - 🌱 I’m currently learning __java, spring, springboot__
 - 📝 [Resume](https://docs.google.com/document/d/1c8rQJ0PB5r-NarBp3cDYXk95-jKlJLaOLaRUwiyJXxI/edit?usp=sharing) / [Tech-blog](https://junu0516.tistory.com/)
 

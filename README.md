@@ -3,7 +3,6 @@
 ### 💬 About Me
 - 자바와 스프링부트를 공부하고 있습니다.
 - 🌱 I’m currently learning __java, spring, springboot__
-- 📝 [Resume](https://docs.google.com/document/d/1c8rQJ0PB5r-NarBp3cDYXk95-jKlJLaOLaRUwiyJXxI/edit?usp=sharing) / [Tech-blog](https://junu0516.tistory.com/)
 
 <!--
 ### 🌱  Recent Output 

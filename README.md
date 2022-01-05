@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@yonsei.ac.kr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@yonsei.ac.kr)](mailto:junu0516@kakao.com)
 ### 💬 About Me
 - 자바와 스프링부트를 공부하고 있습니다.
 - 🌱 I’m currently learning __java, spring, springboot__

@@ -1,37 +1,31 @@
 ## Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junu0516/)](https://www.linkedin.com/in/junu0516/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junu0516@kakao.com)](mailto:junu0516@kakao.com)
-### 💬 About Me
-- 스위프트와 ios 개발, 그리고 자바와 스프링부트를 공부하고 있습니다.
-- 🌱 I’m currently learning __swift&ios, java&springboot__
+<h3 align="center">Contact me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/junu0516/">
+<img src="https://img.shields.io/badge/LinkedIn-junu0516-lightgray?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
+</a
+<a>
+<img src="https://img.shields.io/badge/Gmail-junu0516@kakao.com-lightgray?style=flat-square&logo=Gmail&logoColor=white&labelColor=d14836&link=mailto:junu0516@kakao.com" alt="image"/>
+   </a>
+</p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </p>
+   <br>
+<p align="center">
+   <span>🌱 현재 스위프트와 ios를 공부하고 있습니다.</span><br>
+   <span>🌱 I’m currently learning <b>swift&ios</b></span>
+ </p>
+ <p align="center">  
+   <img src="https://camo.githubusercontent.com/d3e6d4833b5ed405cb2ec00f572421142229bef1e7fb165d9c3b7327765ada93/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a756e7530353136" alt="My GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=junu0516" style="max-width: 100%;">
+ 
+   
+   </p>
 
 <!--
-### 🌱  Recent Output 
-자세한 설명 및 저장소 바로가기는 아래 리스트를 토글해주세요
-<details>
-   <summary><b>나혼자산다 : 1인가구를 위한 종합 웹커뮤니티 서비스를 구현(팀프로젝트)</b></summary>
-<div markdown="1">
-<br>
-<a href="https://github.com/junu0516/ILIVEALONE_2">[저장소 보기]</a><hr>
-   <p>
-      Spring과 Oracle을 활용하여 팀프로젝트로 간단한 종합 웹커뮤니티 서비스를 구현하였으며,
-      공동구매 기능 구현을 담당하였습니다.<br>
-     추후 지속적으로 부족한 점을 보완하여 코드의 가독성 향상과 디자인의 통일성이 갖춰지는대로 호스팅을 시도할 예정입니다.   
-   </p>
-   <hr>
-</div>
-</details>
-<details>
-   <summary><b>예약서비스를 위한 Rest API 제공 서버</b></summary>
-<div markdown="1">
-<br>
-<a href="https://github.com/junu0516/Reservation">[저장소 보기]</a><hr>
-   <p>
-      네이버 부스트코스 백엔드 과정을 수강하면서 학습한 내용을 토대로 REST API를 제공하는 백엔드 시스템을 구현하였습니다.<br>
-      스프링과 MySQL을 활용하였으며, 향후 프론트엔드를 직접 구현하여 백엔드와 연동할 예정입니다.
-   </p>
-   <hr>
-</div>
-</details>   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/junu0516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junu0516" height="30" width="40" /></a>
+<a href="https://instagram.com/junu0516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junu0516" height="30" width="40" /></a>
+</p>
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=junu0516)](https://github.com/junu0516/github-readme-stats)

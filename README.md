@@ -15,11 +15,11 @@
    <span>🌱 현재 스위프트와 ios를 공부하고 있습니다.</span><br>
    <span>🌱 I’m currently learning <b>swift&ios</b></span>
  </p>
- <p align="center">  
+<!--  <p align="center">  
    <img src="https://camo.githubusercontent.com/d3e6d4833b5ed405cb2ec00f572421142229bef1e7fb165d9c3b7327765ada93/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a756e7530353136" alt="My GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=junu0516" style="max-width: 100%;">
  
    
-   </p>
+   </p> -->
 
 <!--
 <h3 align="left">Connect with me:</h3>

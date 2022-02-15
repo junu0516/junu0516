@@ -1,4 +1,3 @@
-## Hi there 👋
 <h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/junu0516/">

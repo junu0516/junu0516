@@ -1,8 +1,8 @@
 <h3 align="center">Contact me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/junu0516/">
+<!-- <a href="https://www.linkedin.com/in/junu0516/">
 <img src="https://img.shields.io/badge/LinkedIn-junu0516-lightgray?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
-</a
+</a -->
 <a>
 <img src="https://img.shields.io/badge/Gmail-junu0516@kakao.com-lightgray?style=flat-square&logo=Gmail&logoColor=white&labelColor=d14836&link=mailto:junu0516@kakao.com" alt="image"/>
    </a>

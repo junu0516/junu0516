@@ -3,9 +3,12 @@
 <a href="https://www.linkedin.com/in/junu0516/">
 <img src="https://img.shields.io/badge/LinkedIn-junu0516-lightgray?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
 </a
-<a>
+<a href="mailto:junu0516@kakao.com">
 <img src="https://img.shields.io/badge/Gmail-junu0516@kakao.com-lightgray?style=flat-square&logo=Gmail&logoColor=white&labelColor=d14836&link=mailto:junu0516@kakao.com" alt="image"/>
-   </a>
+</a>
+<a href="https://www.instagram.com/junu0516/">
+<img src="https://img.shields.io/badge/Instagram-junu0516-lightgray?style=flat-square&logo=instagram&logoColor=white&labelColor=ff69b4&link=https://www.instagram.com/junu0516/" alt="image"/>
+</a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </p>

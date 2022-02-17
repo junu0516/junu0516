@@ -8,7 +8,7 @@
 </a>
 <a href="http://qr.kakao.com/talk/a1jeWLUbSSgUxwgu9EVSdXshY5g-">
 <img src="https://img.shields.io/badge/Kakaotalk-yellow?style=flat-square&logo=kakaotalk&logoColor=white&labelColor=yellow&link=http://qr.kakao.com/talk/a1jeWLUbSSgUxwgu9EVSdXshY5g-" alt="image"/>
-</a>
+</a><br>
    <a href="https://www.linkedin.com/in/junu0516/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
    </a>

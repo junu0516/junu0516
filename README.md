@@ -3,6 +3,7 @@
 <a href="mailto:junu0516@kakao.com">
 <img src="https://img.shields.io/badge/Gmail-junu0516@kakao.com-lightgray?style=flat-square&logo=Gmail&logoColor=white&labelColor=d14836&link=mailto:junu0516@kakao.com" alt="image"/>
 </a>
+   <br>
 <a href="https://www.instagram.com/junu0516/">
 <img src="https://img.shields.io/badge/Instagram-junu0516-lightgray?style=flat-square&logo=instagram&logoColor=white&labelColor=ff69b4&link=https://www.instagram.com/junu0516/" alt="image"/>
 </a>

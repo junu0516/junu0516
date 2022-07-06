@@ -3,9 +3,9 @@
 <a href="mailto:junu0516@kakao.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&labelColor=d14836&link=mailto:junu0516@kakao.com" alt="image"/>
 </a>
-<!-- <a href="https://www.instagram.com/junu0516/">
+<a href="https://www.instagram.com/junu0516/">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&labelColor=ff69b4&link=https://www.instagram.com/junu0516/" alt="image"/>
-</a> -->
+</a>
 <a href="http://qr.kakao.com/talk/a1jeWLUbSSgUxwgu9EVSdXshY5g-">
 <img src="https://img.shields.io/badge/Kakaotalk-yellow?style=flat-square&logo=kakaotalk&logoColor=white&labelColor=yellow&link=http://qr.kakao.com/talk/a1jeWLUbSSgUxwgu9EVSdXshY5g-" alt="image"/>
 </a>
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
    </a>
 
-      <a href="https://junu0516.github.io">
+   <a href="https://junu0516.github.io">
 <img src="https://img.shields.io/badge/TechBlog-navy?style=flat-square&logo=Hugo&logoColor=white&labelColor=navy&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
    </a>
 </p>

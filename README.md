@@ -6,11 +6,9 @@
 <a href="https://www.instagram.com/junu0516/">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&labelColor=ff69b4&link=https://www.instagram.com/junu0516/" alt="image"/>
 </a>
-<!--
    <a href="https://www.linkedin.com/in/junu0516/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
    </a>
-   -->
 <!--
    <a href="https://junu0516.github.io">
 <img src="https://img.shields.io/badge/TechBlog-navy?style=flat-square&logo=Hugo&logoColor=white&labelColor=navy&link=https://www.linkedin.com/in/junu0516/" alt="image"/>
